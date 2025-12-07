@@ -1,0 +1,16 @@
+Metric,Value
+count,6.0
+mean,59.83
+std,23.09
+min,15.0
+25%,61.4
+50%,65.0
+75%,71.6
+max,80.0
+Total Conditional / Waiting List,3.0
+Total Eligible,2.0
+Total Not Eligible,1.0
+Highly Eligible (85–100),0.0
+Eligible (70–84),2.0
+Conditional (50–69),3.0
+Not Eligible (<50),1.0
