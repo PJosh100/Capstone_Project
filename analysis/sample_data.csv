@@ -1,0 +1,7 @@
+student_name,student_id,department,faculty,institution,cgpa,grading_system,courses_passed,courses_failed,is_orphan,income,dependents
+Max CGPA,1,CS,Engineering,TechRise,5,5,12,0,0,500000,2
+Min CGPA,2,Math,Science,TechRise,0,4,0,10,0,200000,1
+High Income,3,Business,Management,TechRise,3.5,4,10,2,0,3000000,0
+Orphan,4,Physics,Science,TechRise,2.5,4,9,1,1,150000,5
+Tie1,5,Chemistry,Science,TechRise,4,5,10,2,0,400000,2
+Tie2,6,Chemistry,Science,TechRise,4,5,10,2,0,300000,2
